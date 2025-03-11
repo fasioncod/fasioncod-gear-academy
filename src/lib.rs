@@ -1,5 +1,5 @@
 #![no_std]
-#![allow(static_mut_refs)]
+#![allow(warnings)]
 use gstd::*;
 use pebbles_game_io::*;
 
